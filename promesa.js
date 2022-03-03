@@ -27,7 +27,7 @@ function RecibirCredenciales(nombre,correo,contrasena,plan){
 
 
 RecibirCredenciales(`Valentina`,`valennzapata@gmail.com`,`valentina123`,`mensual`)
-.catch(function(respuesta){
+.catch  (function(respuesta){
 
     console.log(respuesta)
 
